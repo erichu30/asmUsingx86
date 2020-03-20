@@ -1,0 +1,7 @@
+Input:
+
+    There are many test cases. For each test case, input 6 integers to represent 3 points of a triangle.
+
+Output:
+
+   For each case, print out the area of input triangle. 小數點以下3 位。
