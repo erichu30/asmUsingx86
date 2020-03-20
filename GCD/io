@@ -1,0 +1,5 @@
+Input:
+         There are many lines of input.  Each line has two integers M and N. Repeat reading pairs of integers until a negative number is read.
+
+Output:
+         For each pair of positive numbers (M and N), print out GCD(M, N) and LCM(M, N).
