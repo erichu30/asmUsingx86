@@ -1,0 +1,3 @@
+Input: an integer Num read by scanf()
+
+Output: all prime numbers less than Num using printf()
