@@ -1,0 +1,7 @@
+Input: 
+     Input an integer N followed by N signed  numbers. Note that you have to call scanf().
+     Example:    5 3 -1 7 10 -2      // the first number 5 meaning 5 numbers 3, -1, 7 10, and -2.
+
+Output: 
+     Output the minimum and maximum numbers among N input numbers. Note that you have to call printf().
+     Example:   Min = -2    Max = 10     // using the above input example.
