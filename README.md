@@ -1,7 +1,4 @@
 # asmUsingx86
 
-## 組合語言
-使用x86撰寫
-部分使用x87
-
-僅此做為課程紀錄
+## Assembly Language
+written in x86 or x87 as a class record
